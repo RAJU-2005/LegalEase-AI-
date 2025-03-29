@@ -1,4 +1,4 @@
-# LegalEase-AI-
+# 🏛️ LegalEase-AI-
 LegalEase AI is a smart legal assistant that helps lawyers analyze Karnataka High Court case files. It summarizes documents, answers case-related questions, and supports multilingual processing.
 
 ## Features
@@ -13,8 +13,6 @@ LegalEase AI is a smart legal assistant that helps lawyers analyze Karnataka Hig
 
 ### **1. Frontend & UI**
 - **Streamlit** (`streamlit`) → For creating the web-based UI
-  ```bash
-  pip install streamlit
 
 ### **2. AI & NLP**
 - **Google Gemini AI** (`google-generativeai`) → For answering legal queries
@@ -45,11 +43,12 @@ LegalEase AI is a smart legal assistant that helps lawyers analyze Karnataka Hig
 # 📦 Packages Required  
 
 ### **Frontend & UI**
-
+```bash
+   pip install streamlit
 
 ### ** AI & NLP**
 ```bash
-pip install google-generativeai speechrecognition deep-translator
+   pip install google-generativeai speechrecognition deep-translator
 
 ### ** PDF Processing **
 ```bash
