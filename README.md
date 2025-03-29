@@ -40,7 +40,7 @@ LegalEase AI is a smart legal assistant that helps lawyers analyze Karnataka Hig
 - **Datetime** (`datetime`) → For logging timestamps
 - **OS** (`os`) → For file operations and directory management
 
-# 📦 Packages Required  
+# **📦 Packages Required** 
 
 ### **Frontend & UI**
 ```bash
