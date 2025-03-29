@@ -39,3 +39,18 @@ LegalEase AI is a smart legal assistant that helps lawyers analyze Karnataka Hig
 ### **7. Other Utilities**
 - **Datetime** (`datetime`) → For logging timestamps
 - **OS** (`os`) → For file operations and directory management
+
+# 📦 Packages Required  
+
+### **Frontend & UI**
+```bash
+pip install streamlit
+
+### ** AI & NLP**
+```bash
+pip install google-generativeai speechrecognition deep-translator
+
+
+
+```bash
+
