@@ -14,7 +14,7 @@ LegalEase AI is a smart legal assistant that helps lawyers analyze Karnataka Hig
 ### **1. Frontend & UI**
 - **Streamlit** (`streamlit`) → For creating the web-based UI
   ```bash
-pip install streamlit
+  pip install streamlit
 
 ### **2. AI & NLP**
 - **Google Gemini AI** (`google-generativeai`) → For answering legal queries
