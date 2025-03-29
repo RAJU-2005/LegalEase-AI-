@@ -48,22 +48,22 @@ LegalEase AI is a smart legal assistant that helps lawyers analyze Karnataka Hig
 ```
 
 
-### ** AI & NLP**
+### **AI & NLP**
 ```bash
    pip install google-generativeai speechrecognition deep-translator
 ```
 
-### ** PDF Processing **
+### **PDF Processing**
 ```bash
    pip install pymupdf
 ```
 
-### ** Audio Processing**
+### **Audio Processing**
 ```bash
    pip install sounddevice wave numpy
 ```
 
-### ** Database & Storage **
+### **Database & Storage**
 ```bash
    pip install mysql-connector-python
 ```
