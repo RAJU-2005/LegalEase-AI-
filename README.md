@@ -50,7 +50,17 @@ pip install streamlit
 ```bash
 pip install google-generativeai speechrecognition deep-translator
 
-
-
+### ** PDF Processing **
 ```bash
+pip install pymupdf
+
+### ** Audio Processing**
+```bash
+pip install sounddevice wave numpy
+
+### ** Database & Storage **
+```bash
+pip install mysql-connector-python
+
+
 
