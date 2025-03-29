@@ -10,31 +10,31 @@ LegalEase AI is a smart legal assistant that helps lawyers analyze Karnataka Hig
 
 # **Tech Stacks**
 
-### **Frontend & UI**
+### **1. Frontend & UI**
 - **Streamlit** (`streamlit`) → For creating the web-based UI
 
-### **AI & NLP**
+### **2. AI & NLP**
 - **Google Gemini AI** (`google-generativeai`) → For answering legal queries
 - **SpeechRecognition** (`speech_recognition`) → For converting audio to text
 - **Deep Translator** (`deep_translator`) → For language translation
 
-### **PDF Processing**
+### **3. PDF Processing**
 - **PyMuPDF** (`fitz`) → For extracting text from PDF case files
 - **Base64 Encoding** (`base64`) → For embedding PDF previews in the UI
 
-### **Audio Processing**
+### **4. Audio Processing**
 - **Sounddevice** (`sounddevice`) → For recording audio
 - **Wave** (`wave`) → For handling `.wav` audio files
 - **NumPy** (`numpy`) → For audio data processing
 
-### **Database & Storage**
+### **5. Database & Storage**
 - **MySQL** (`mysql.connector`) → For storing user chat logs and sessions
 - **JSON** (`json`) → For saving credentials and chat history in local files
 
-### **Security & Authentication**
+### **6. Security & Authentication**
 - **Hashlib** (`hashlib`) → For hashing PDF files
 - **Tempfile** (`tempfile`) → For handling temporary audio file storage
 
-### **Other Utilities**
+### **7. Other Utilities**
 - **Datetime** (`datetime`) → For logging timestamps
 - **OS** (`os`) → For file operations and directory management
