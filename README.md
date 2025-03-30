@@ -107,6 +107,7 @@ Here are some screenshots of the AI bot in action:
 
 # **📝System Architecture**
 The image below provides a clear overview of how LegalEaseAI works and its feature flows. The system architecture is structured into different layers, each performing a critical role in ensuring seamless functionality. These layers work together to handle document processing, AI-based text summarization, question-answering, and multilingual support while maintaining an intuitive and user-friendly experience.
+
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/c9e3b467b16d9cda23c66656498309c7572e5248/System_Architecture.png)
 
   
