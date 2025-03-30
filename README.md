@@ -2,12 +2,12 @@
    The legal world depends heavily on written case files, judgments, petitions, and other documents. In courts like the Karnataka High Court, these files can stretch to dozens of pages filled with legal jargon, technical terms, and procedural language.For advocates, especially juniors or interns, reading and understanding these documents is not only time-consuming but also mentally exhausting. Every case requires careful reading, summarizing, noting key insights, and preparing responses—repeating this for multiple files daily becomes a major challenge.LegalEase AI was built to make this process smarter. It’s not just a chatbot—it’s a digital assistant for lawyers that helps them read, understand, and engage with Karnataka High Court case files in a faster, simpler, and more interactive way.
 
 ## **⚡Features**
-- **✅Legal Document Summarization** – Automatically extracts key insights from lengthy case files, making legal research faster and more efficient.
-- **📄 Uploaded PDF File Preview** – Users can upload legal case files in PDF format and preview them directly within the application for quick reference and review.
-- **💬Interactive Q&A** – Allows users to ask legal queries and get instant, AI-driven responses based on case law and legal documents.
-- **🌍 Language Support** – Supports multiple Indian languages, enabling seamless understanding and translation of legal texts for diverse users.
-- **🔒Secured Database Storage** – Ensures case data is stored safely using encryption and authentication protocols, maintaining confidentiality and integrity.
-- **🎙️ Audio Recording in Q&A Interaction** – Enables users to record and submit voice queries, making it easier to interact with the system hands-free. The AI converts speech to text and processes the query.
+- **Legal Document Summarization** – Automatically extracts key insights from lengthy case files, making legal research faster and more efficient.
+- **Uploaded PDF File Preview** – Users can upload legal case files in PDF format and preview them directly within the application for quick reference and review.
+- **Interactive Q&A** – Allows users to ask legal queries and get instant, AI-driven responses based on case law and legal documents.
+- **Language Support** – Supports multiple Indian languages, enabling seamless understanding and translation of legal texts for diverse users.
+- **Secured Database Storage** – Ensures case data is stored safely using encryption and authentication protocols, maintaining confidentiality and integrity.
+- **Audio Recording in Q&A Interaction** – Enables users to record and submit voice queries, making it easier to interact with the system hands-free. The AI converts speech to text and processes the query.
 
 # **🖥️Tech Stacks**
 
