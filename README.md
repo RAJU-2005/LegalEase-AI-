@@ -68,7 +68,7 @@ LegalEase AI is a smart legal assistant that helps lawyers analyze Karnataka Hig
       pip install mysql-connector-python
    ```
 
-#**🎯 Steps to Use the LegalEaseAI**
+# **🎯 Steps to Use the AI Bot**
 
 ### **1. Create a Jupyter Notebook File**
 - Open Jupyter Notebook and create a new file.
