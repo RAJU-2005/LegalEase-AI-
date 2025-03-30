@@ -69,6 +69,7 @@ LegalEase AI is a smart legal assistant that helps lawyers analyze Karnataka Hig
    ```
 
 #**🎯 Steps to Use the LegalEaseAI**
+
 ### **1. Create a Jupyter Notebook File**
 - Open Jupyter Notebook and create a new file.
 - Save it as (`project_name.py`).
