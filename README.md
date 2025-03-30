@@ -68,5 +68,41 @@ LegalEase AI is a smart legal assistant that helps lawyers analyze Karnataka Hig
       pip install mysql-connector-python
    ```
 
+#**🎯 Steps to Use the LegalEaseAI**
+### **1. Create a Jupyter Notebook File**
+- Open Jupyter Notebook and create a new file.
+- Save it as (`project_name.py`).
+
+### **2. Copy & Paste the Code**
+- Copy the provided Python script and paste it into (`project_name.py`).
+
+### **3. Add Your Gemini API Key**
+- Locate line 49 in the code and replace the placeholder with your API key.
+
+### **4. Configure Database Credentials**
+- Find lines 60-63 and update the username and SQL password.
+
+### **5. Save the File**
+- Press (`Ctrl + S`) to save your work.
+
+### **6. Open Anaconda Prompt**
+- Launch Anaconda Prompt on your system.
+
+ ### **7. Run the Streamlit App**
+ - Run this command in Anaconda Prompt:
+   ```bash
+      streamlit run project_name.py
+   ```
+
+### **8. View the Output**
+- The app will launch in your browser, and you can start using it!
+
+
+
+
+
+
+
+
 
 
