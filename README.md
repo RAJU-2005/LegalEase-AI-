@@ -9,7 +9,7 @@ LegalEase AI is a smart legal assistant that helps lawyers analyze Karnataka Hig
 - **🔒Secured Database Storage** – Ensures case data is stored safely using encryption and authentication protocols, maintaining confidentiality and integrity.
 - **🎙️ Audio Recording in Q&A Interaction** – Enables users to record and submit voice queries, making it easier to interact with the system hands-free. The AI converts speech to text and processes the query.
 
-# **Tech Stacks**
+# **:🖥️Tech Stacks**
 
 ### **1. Frontend & UI**
 - **Streamlit** (`streamlit`) → For creating the web-based UI
