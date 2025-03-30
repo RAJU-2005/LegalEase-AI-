@@ -129,7 +129,7 @@ Here are some screenshots of the AI bot in action:
 ### **9. ChatBot Interface**
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/44277fcde1856c411206e876109d9031a0033acd/Snapshots/Chatbot%20Interface.jpg)
 
-### **10. Regional Language Translation**
+### **10. Translating Feature**
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/44277fcde1856c411206e876109d9031a0033acd/Snapshots/Transalating%20Feature.jpg)
 
 
