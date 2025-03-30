@@ -132,6 +132,8 @@ Here are some screenshots of the AI bot in action:
 ### **10. Translating Feature**
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/44277fcde1856c411206e876109d9031a0033acd/Snapshots/Transalating%20Feature.jpg)
 
+## **11. Output in Regional Language**
+![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/44277fcde1856c411206e876109d9031a0033acd/Snapshots/Chatbot%20Output%20in%20Regional%20Language.jpg)
 
 ### **12. SQL Database Logs**
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/44277fcde1856c411206e876109d9031a0033acd/Snapshots/SQL%20Database%20Logs.jpg)
