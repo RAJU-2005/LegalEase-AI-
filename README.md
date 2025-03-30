@@ -138,6 +138,11 @@ Here is the Demo Video of the AI bot in action:
 ## **🔎Conclusion**
    LegalEase AI is a practical solution designed to address a major gap in the legal domain—simplifying the process of understanding, summarizing, and interacting with complex legal case files. By integrating cutting-edge LLMs, speech recognition, multilingual translation, and a user-friendly interface, the tool makes legal research more accessible, inclusive, and time-efficient. The project has proven that a combination of AI and thoughtful design can significantly assist legal professionals and common users. From uploading a case file to receiving intelligent answers and summaries in their preferred language, users experience an innovative legal assistant built for the Indian context. This project also helped us learn not just about technical implementation but also about the real-world challenges of building inclusive and practical AI tools. LegalEase AI is a step toward democratizing legal knowledge and making justice a little easier to understand and access.
 
+## **References & Citations**
+-OpenAI ChatGPT : Used to assist with code structure, explanation writing, formatting, and overall guidance during the project.
+-Karnataka High Court Judgments : Source of legal case PDFs [Website] (https://karnatakajudiciary.kar.nic.in/hck_judgments.php#)
+
+
 
 
 
