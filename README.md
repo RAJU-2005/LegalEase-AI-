@@ -115,6 +115,15 @@ The image below provides a clear overview of how LegalEaseAI works and its featu
 Here is the Demo Video of the AI bot in action: 
 ![video.alt]()
 
+## Who Benefits from This Project?
+
+**Key Beneficiaries of LegalEase AI:**  
+
+- **Advocates & Legal Professionals:** Quickly analyze Karnataka High Court case files, extract key insights, and save time.  
+- **Law Students & Interns:** Simplifies complex legal documents for better understanding.  
+- **Legal Firms:** Streamlines documentation and client preparation.  
+- **Citizens Seeking Legal Help:** Provides easy-to-understand summaries in multiple languages.
+
 ## 📈Future Enhancement
 
 - **Past Case Matching Engine** : Implement semantic search to fetch similar Karnataka High Court cases.
