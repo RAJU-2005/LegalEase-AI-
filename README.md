@@ -115,7 +115,7 @@ The image below provides a clear overview of how LegalEaseAI works and its featu
 Here is the Demo Video of the AI bot in action: 
 ![video.alt]()
 
-## ✅Who Benefits from This Project?
+## **✅Who Benefits from This Project?**
 
 **Some of the Key Beneficiaries of LegalEase AI are :**  
 
@@ -124,7 +124,7 @@ Here is the Demo Video of the AI bot in action:
 - **Legal Firms :** Streamlines documentation and client preparation.  
 - **Citizens Seeking Legal Help :** Provides easy-to-understand summaries in multiple languages.
 
-## 📈Future Enhancement
+## **📈Future Enhancement**
 
 - **Timeline Visualization :** Add interactive case timelines with filters.
 - **Speech-to-Speech Interaction :** Enable voice-based responses for a fully conversational experience.
