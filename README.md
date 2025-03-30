@@ -105,6 +105,29 @@ Here are some screenshots of the AI bot in action:
 ### **1️⃣ Home Page**  
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/d4ce996f266254dfc2a15706e10450d027fb89c8/ChatGPT%20Image%20Mar%2030%2C%202025%2C%2012_02_28%20PM.png)
 
+   ```bash
+
+   LegalEaseAI/
+   │── README.md
+   │── LICENSE
+   │── requirements.txt
+   │── src/
+   │   ├── main.py  # Entry point
+   │   ├── chatbot.py  # Core chatbot logic
+   │   ├── pdf_processing.py  # Extracts text from PDFs
+   │   ├── summarizer.py  # Generates summaries
+   │   ├── qna_module.py  # Handles user queries
+   │   ├── case_search.py  # Finds similar cases
+   │   ├── language_support.py  # Multilingual responses
+   │   ├── ui.py  # Streamlit-based frontend
+   │── models/  # AI/ML models if applicable
+   │── data/  # Sample case files
+   │── tests/  # Unit tests
+   │── deployment/  # Docker & cloud setup
+   │── docs/  # Documentation
+
+  ```
+
 
 
 
