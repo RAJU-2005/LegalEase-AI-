@@ -117,13 +117,13 @@ Here is the Demo Video of the AI bot in action:
 
 ## 📈Future Enhancement
 
-- **#Past Case Matching Engine** : Implement semantic search to fetch similar Karnataka High Court cases.
-- **Timeline Visualization** : Add interactive case timelines with filters.
-- **Speech-to-Speech Interaction** : Enable voice-based responses for a fully conversational experience.
-- **Enhanced Security** : Introduce role-based access, two-factor authentication, and encryption.
-- **Legal Database Integration** : Automate case extraction from SCC Online, Indian Kanoon, etc.
-- **Cross-Jurisdiction Support** : Expand coverage to other Indian courts.
-- **Mobile App Version** : Develop an Android/iOS app for legal access on the go.
+- **1. Past Case Matching Engine** : Implement semantic search to fetch similar Karnataka High Court cases.
+- **2. Timeline Visualization** : Add interactive case timelines with filters.
+- **3. Speech-to-Speech Interaction** : Enable voice-based responses for a fully conversational experience.
+- **4. Enhanced Security** : Introduce role-based access, two-factor authentication, and encryption.
+- **5. Legal Database Integration** : Automate case extraction from SCC Online, Indian Kanoon, etc.
+- **6. Cross-Jurisdiction Support** : Expand coverage to other Indian courts.
+- **7. Mobile App Version** : Develop an Android/iOS app for legal access on the go.
 
 
 
