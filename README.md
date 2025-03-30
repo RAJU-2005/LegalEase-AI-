@@ -98,7 +98,12 @@ LegalEase AI is a smart legal assistant that helps lawyers analyze Karnataka Hig
 ### **8. View the Output**
 - The app will launch in your browser, and you can start using it!
 
-![Project Preview](images/project_screenshot.png)
+## 📸 Snapshots  
+
+Here are some screenshots of the AI bot in action:  
+
+### **1️⃣ Home Page**  
+![Home Page](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/homepage.png)  
 
 
 
