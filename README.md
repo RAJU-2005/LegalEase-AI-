@@ -143,7 +143,7 @@ The image below provides a clear overview of how LegalEaseAI works and its featu
 
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/c9e3b467b16d9cda23c66656498309c7572e5248/System_Architecture.png)
 
-## 🎬Demo Video  
+# 🎬Demo Video  
 
 Here is the Demo Video of the AI bot in action: 
 ![video.alt]()
