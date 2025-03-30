@@ -140,7 +140,7 @@ Here is the Demo Video of the AI bot in action:
 
 ## **References & Citations**
 -OpenAI ChatGPT : Used to assist with code structure, explanation writing, formatting, and overall guidance during the project.
--Karnataka High Court Judgments : Source of legal case PDFs [Website] (https://karnatakajudiciary.kar.nic.in/hck_judgments.php#)
+-Karnataka High Court Judgments : Source of legal case PDFs [Website](https://karnatakajudiciary.kar.nic.in/hck_judgments.php#)
 
 
 
