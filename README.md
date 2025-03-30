@@ -102,40 +102,40 @@
 
 Here are some screenshots of the AI bot in action:  
 
-### **1. Register Page**  
+## **1. Register Page**  
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/44277fcde1856c411206e876109d9031a0033acd/Snapshots/Register%20Page.jpg )
 
-### **2. Login Page**
+## **2. Login Page**
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/44277fcde1856c411206e876109d9031a0033acd/Snapshots/Login%20Page.jpg )
 
-### **3. Summary Page**
+## **3. Summary Page**
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/44277fcde1856c411206e876109d9031a0033acd/Snapshots/Summary%20Page.jpg )
 
-### **4. File Upload**
+## **4. File Upload**
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/44277fcde1856c411206e876109d9031a0033acd/Snapshots/PDF%20Upload%20Page.jpg)
 
-### **5. PDF Preview**
+## **5. PDF Preview**
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/44277fcde1856c411206e876109d9031a0033acd/Snapshots/PDF%20Preview.jpg)
 
-### **6. Summary Translation (Hindi)**
+## **6. Summary Translation (Hindi)**
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/44277fcde1856c411206e876109d9031a0033acd/Snapshots/Multilingual%20Summary%20Translation.jpg)
 
-### **7. Q&A ChatBot Page**
+## **7. Q&A ChatBot Page**
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/44277fcde1856c411206e876109d9031a0033acd/Snapshots/Q%26A%20Page.jpg)
 
-### **8. Menu Sidebar**
+## **8. Menu Sidebar**
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/44277fcde1856c411206e876109d9031a0033acd/Snapshots/Sidebar%20Menu.jpg)
 
-### **9. ChatBot Interface**
+## **9. ChatBot Interface**
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/44277fcde1856c411206e876109d9031a0033acd/Snapshots/Chatbot%20Interface.jpg)
 
-### **10. Translating Feature**
+## **10. Translating Feature**
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/44277fcde1856c411206e876109d9031a0033acd/Snapshots/Transalating%20Feature.jpg)
 
 ## **11. Output in Regional Language**
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/44277fcde1856c411206e876109d9031a0033acd/Snapshots/Chatbot%20Output%20in%20Regional%20Language.jpg)
 
-### **12. SQL Database Logs**
+## **12. SQL Database Logs**
 ![image.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/44277fcde1856c411206e876109d9031a0033acd/Snapshots/SQL%20Database%20Logs.jpg)
 
 # **📝System Architecture**
