@@ -15,7 +15,7 @@
 - **Streamlit** (`streamlit`) → For creating the web-based UI
 
 ### **2. AI & NLP**
-- **Google Gemini AI** (`google-generativeai`) → For answering legal queries
+- **Google Gemini AI** (`google-generativeai`) → For answering legal queriesk
 - **SpeechRecognition** (`speech_recognition`) → For converting audio to text
 - **Deep Translator** (`deep_translator`) → For language translation
 
