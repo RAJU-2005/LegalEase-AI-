@@ -146,7 +146,7 @@ The image below provides a clear overview of how LegalEaseAI works and its featu
 # 🎬Demo Video  
 
 Here is the Demo Video of the AI bot in action: 
-![video.alt](https://github.com/RAJU-2005/LegalEase-AI-/blob/46598edbfee5e8539c3aa60acb7adfb4b09a8c42/Demo%20Video%20LegalEase%20AI.mp4)
+https://github.com/RAJU-2005/LegalEase-AI-/blob/46598edbfee5e8539c3aa60acb7adfb4b09a8c42/Demo%20Video%20LegalEase%20AI.mp4
 
 # **✅Who Benefits from This Project?**
 
